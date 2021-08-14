@@ -45,6 +45,7 @@ function getData(url){
   })
 }
 
+// data2 加载本地数据
 function getData2(){
   return index.index;
 }
@@ -60,6 +61,8 @@ function getDiscovery(){
 function discoveryNext(){
   return discovery_next.next;
 }
+
+
 
 
 

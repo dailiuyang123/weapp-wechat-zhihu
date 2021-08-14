@@ -57,6 +57,7 @@ Page({
     var feed = util.getData2();
     console.log("loaddata");
     var feed_data = feed.data;
+    console.log(feed_data);
     this.setData({
       feed:feed_data,
       feed_length: feed_data.length
