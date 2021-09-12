@@ -211,4 +211,4 @@ var bom= {
 }
 
 module.exports.index = index;
-module.exports.index2=index2;
+module.exports.bom=bom;
